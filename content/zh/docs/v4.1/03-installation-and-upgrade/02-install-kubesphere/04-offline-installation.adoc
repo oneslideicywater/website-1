@@ -7,7 +7,7 @@ weight:  04
 ---
 
 
-本节介绍如何使用 KubeKey 在联网状态下制作离线包，并在离线环境中部署 Kubernetes 和 KubeSphere。
+本节介绍如何使用 KubeKey 在联网状态下制作离线包，并在离线环境中部署 Kubernetes 和 KubeSphere
 
 == 前提条件
 
